@@ -8,11 +8,7 @@ Vagrant requires that you download [Virtualbox](https://www.virtualbox.org/wiki/
 
 Once you have those installed, `git clone` this repository and start vagrant:
 
-```
-git clone https://github.com/codeforanchorage/collective-development.git
-cd collective-development
-vagrant up
-```
+
 
 Wait for this to load (it will take some time). Once it is finished, get onto the vagrant VM:
 
